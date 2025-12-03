@@ -61,7 +61,7 @@ const useCases = [
   }
 ];
 
-export default function UseCases() {
+export default function Usecases() {
   const [activeCase, setActiveCase] = useState(useCases[0]);
 
   return (
@@ -185,6 +185,7 @@ export default function UseCases() {
                   </p>
                 </div>
               </motion.div>
+
             </AnimatePresence>
           </div>
         </div>

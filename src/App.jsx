@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Products from './components/Products';
-import UseCases from './components/UseCases';
+import UseCases from './components/Usecases';
 import HowItWorks from './components/HowItWorks';
 import Benefits from './components/Benefits';
 import Pricing from './components/Pricing';
